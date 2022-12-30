@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ashwathaman S
+- 👀 I’m a web-developer aat GDSC-rmp
+- 🌱 I’m currently mastering Django
+- 💞️ I’m looking to collaborate on DSA
+- 📫 I own a Tech Startup Known as Condottiere Consultancy Services
