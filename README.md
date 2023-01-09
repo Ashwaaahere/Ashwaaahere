@@ -3,7 +3,9 @@
 - 🌱 I’m currently mastering Django and Kivymd
 - 💞️ I’m looking to collaborate on DSA
 - 📫 I own a Tech Startup Known as Condottiere Consultancy Services
- 
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Ashwaaahere.Ashwaaahere)
+
 
 - Trophy-
 
