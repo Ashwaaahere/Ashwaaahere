@@ -1,6 +1,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Ashwaaahere.Ashwaaahere)
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Ashwaaahere&count_private=true&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=Ashwaaahere&count_private=true&show_icons=true&hide=contribs) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashwaaahere)](https://git.io/streak-stats)
+
 
 - 👋 Hi, I’m Ashwathaman S
 - 👀 I’m a web-developer at GDSC-rmp
