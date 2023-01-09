@@ -11,7 +11,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwaaahere)
 
-[![Badge](https://cp-logo.vercel.app/codechef/codechef_username)](https://www.codechef.com/users/ashwathaman)
+[![Badge](https://cp-logo.vercel.app/codechef/ashwathaman)](https://www.codechef.com/users/ashwathaman)
 
 
 - Trophy-
