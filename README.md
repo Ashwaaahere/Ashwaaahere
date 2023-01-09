@@ -1,4 +1,5 @@
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Ashwaaahere.Ashwaaahere)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Ashwaaahere.Ashwaaahere) [![Badge](https://cp-logo.vercel.app/codechef/ashwathaman)](https://www.codechef.com/users/ashwathaman)
+
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Ashwaaahere&count_private=true&show_icons=true&hide=contribs) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashwaaahere)](https://git.io/streak-stats)
 
@@ -11,7 +12,6 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwaaahere)
 
-[![Badge](https://cp-logo.vercel.app/codechef/ashwathaman)](https://www.codechef.com/users/ashwathaman)
 
 
 - Trophy-
