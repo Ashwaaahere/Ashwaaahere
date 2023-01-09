@@ -8,6 +8,7 @@
 - 💞️ I’m looking to collaborate on DSA
 - 📫 I own a Tech Startup Known as Condottiere Consultancy Services
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
 
 - Trophy-
 
