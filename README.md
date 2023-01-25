@@ -1,7 +1,6 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Ashwaaahere.Ashwaaahere) [![Badge](https://cp-logo.vercel.app/codechef/ashwathaman)](https://www.codechef.com/users/ashwathaman)
 
-
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Ashwaaahere&count_private=true&show_icons=true&hide=contribs) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashwaaahere)](https://git.io/streak-stats)
+[![GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com?user=Ashwaaahere&theme=dark)](https://git.io/streak-stats)
 
 
 - 👋 Hi, I’m Ashwathaman S
