@@ -24,9 +24,8 @@
 ---
 
 ## 🌍 Connect with Me
-- [LinkedIn](https://linkedin.com/in/ashwathaman)  
-- 📧 [Email](mailto:your.email@example.com)  
-- 🌐 [Portfolio](https://yourwebsite.com) _(optional)_
+- [LinkedIn](https://linkedin.com/in/ashwathaman-s-024235217)  
+- 📧 [Email](mailto:aswathama0604@gmail.com)
 
 ---
 
