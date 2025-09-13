@@ -1,18 +1,33 @@
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Ashwaaahere.Ashwaaahere) [![Badge](https://cp-logo.vercel.app/codechef/ashwathaman)](https://www.codechef.com/users/ashwathaman)
+# Hi there, I'm Ashwathaman 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ashwaaahere&theme=dark)](https://git.io/streak-stats)
+🎓 **MS in Computer Science @ Binghamton University** (Specialization: Cybersecurity)  
+🔐 Passionate about **DevSecOps | Threat Intelligence | Secure Software Development**  
+🚀 Currently building:  
+- [**SiteZapper**](https://github.com/Ashwaaahere/sitescan) – DevSecOps Vulnerability Dashboard  
+- **Sentohub** – AI-powered Threat Intelligence Platform  
 
+---
 
-- 👋 Hi, I’m Ashwathaman.S
-- 👀 I’m a web-developer at GDSC-rmp
-- 🌱 I’m currently mastering Django and Kivymd
-- 💞️ I’m looking to collaborate on DSA
-- 📫 I own a Tech Startup Known as Condottiere Consultancy Services
+## 🛠️ Tech Stack
+- **Languages:** Python, C++, Java, Prolog, JavaScript/TypeScript  
+- **Frameworks:** Django, FastAPI, Next.js, React  
+- **Tools:** Docker, Kubernetes, Redis, Celery, GitHub Actions, Nuclei, Wapiti, ZAP  
+- **Databases:** PostgreSQL, MySQL, SQLite  
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwaaahere)
+---
 
+## 📊 GitHub Stats
+![Ashwath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwaaahere&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwaaahere&layout=compact&theme=radical)
 
-- Trophy-
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ashwaaahere)](https://github.com/ryo-ma/github-profile-trophy)
+## 🌍 Connect with Me
+- [LinkedIn](https://linkedin.com/in/ashwathaman)  
+- 📧 [Email](mailto:your.email@example.com)  
+- 🌐 [Portfolio](https://yourwebsite.com) _(optional)_
+
+---
+
+⏰ **Local Time:** Eastern Time (US) | IST (India)  
