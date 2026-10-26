@@ -3,8 +3,7 @@
 🎓 **MS in Computer Science @ Binghamton University** (Specialization: Cybersecurity)  
 🔐 Passionate about **DevSecOps | Threat Intelligence | Secure Software Development**  
 🚀 Currently building:  
-- [**SiteZapper**](https://github.com/Ashwaaahere/sitescan) – DevSecOps Vulnerability Dashboard  
-- **Sentohub** – AI-powered Threat Intelligence Platform  
+- [**Thandev**](https://github.com/Ashwaaahere/thandev) – DevSecOps Vulnerability Dashboard 
 
 ---
 
